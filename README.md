@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ClipTalk is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://cliptalk.pro
+ClipTalk provides an AI-powered video creation platform that instantly generates short-form videos for Instagram Reels, YouTube Shorts, TikTok, and other social media. Users describe a concept or provide media, and the service automatically scripts, selects visuals, adds voiceovers, captions, and music, delivering a ready-to-post MP4. The platform also offers a suite of AI tools for content creators, marketers, and developers via a REST API and MCP integration, enabling automated video production at scale.
+
+**Areas:** Company · AI · Video · Social Media · Automation
+
+## ClipTalk on APIs.io
+
+Everything profiled for ClipTalk is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cliptalk-pro/](https://apis.io/providers/cliptalk-pro/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [ClipTalk API v1](https://apis.io/apis/cliptalk-pro/cliptalk-api-v1/)
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cliptalk Pro Authentication](https://apis.io/security/cliptalk-pro/cliptalk-pro-authentication/)
+- [Cliptalk Pro Domain Security](https://apis.io/security/cliptalk-pro/cliptalk-pro-domain-security/)
+- [Cliptalk Pro Vulnerability Disclosure](https://apis.io/security/cliptalk-pro/cliptalk-pro-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Cliptalk Pro Plans Pricing](https://apis.io/plans/cliptalk-pro/cliptalk-pro-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Cliptalk Pro Rate Limits](https://apis.io/rate-limits/cliptalk-pro/cliptalk-pro-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cliptalk.pro)
+- [Documentation](https://www.cliptalk.pro/api/v1)
+- [Getting started](https://www.cliptalk.pro/api/v1)
+- [API reference](https://www.cliptalk.pro/api/v1)
+- [Pricing](https://www.cliptalk.pro/pricing)
+- [Sign up](https://www.cliptalk.pro/auth)
+- [Support](https://www.cliptalk.pro/contact)
+- [Blog](https://www.cliptalk.pro/blog)
+- [Security](https://github.com/payamsaremi/cliptalk-mcp/blob/main/SECURITY.md)
+- [Terms of service](https://www.cliptalk.pro/terms-of-use)
+- [Privacy policy](https://www.cliptalk.pro/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 32.2** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 57.1 |
+| Access clarity | 44.7 |
+
+**Agent readiness 33.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cliptalk-pro/](https://apis.io/providers/cliptalk-pro/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ClipTalk: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cliptalk-pro/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
